@@ -1,0 +1,21 @@
+# Виртуальное окружение
+.venv/
+
+# Артефакты сборки PyInstaller
+build/
+dist/
+*.spec
+
+# Папка IDE (PyCharm)
+.idea/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Другие кэши
+.pytest_cache/
+.mypy_cache/
+.tox/
+
+task.txt
